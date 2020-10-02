@@ -56,8 +56,8 @@ const TeamBuilding = (): React.ReactElement => {
 				<div style={{ flex: 1 }}>
 					<CardHeader
 						avatar={
-							<Avatar aria-label="esprit de corps" className={classes.avatar}>
-								EC
+							<Avatar aria-label="Workshops" className={classes.avatar}>
+								W
 							</Avatar>
 						}
 						title={<h3>Workshops</h3>}

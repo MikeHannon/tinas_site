@@ -99,7 +99,7 @@ const About = () => {
 			<CardContent>
 				<br></br>
 				<Typography variant="h6" color="textPrimary" component="h6">
-					Define your style.
+					Define your style. Captivate your audience.
 				</Typography>
 				<br></br>
 

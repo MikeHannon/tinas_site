@@ -72,7 +72,7 @@ function App() {
 								style={{ minWidth: "100px" }}
 							>
 								<Tab style={{ minWidth: "100px" }} label="Philosophy" />
-								<Tab style={{ minWidth: "100px" }} label="Esprit de Corps" />
+								<Tab style={{ minWidth: "100px" }} label="Workshops" />
 								<Tab style={{ minWidth: "100px" }} label="Directing" />
 								<Tab style={{ minWidth: "100px" }} label="Coaching" />
 								<Tab style={{ minWidth: "100px" }} label="About" />

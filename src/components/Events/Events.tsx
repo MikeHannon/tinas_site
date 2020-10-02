@@ -63,7 +63,12 @@ const About = () => {
 							variant="body2"
 							color="textSecondary"
 							component="h2"
-							style={{ fontSize: "12px" }}
+							style={{
+								fontSize: "12px",
+								maxWidth: "600px",
+								marginLeft: "auto",
+								marginRight: "auto",
+							}}
 							align="center"
 						>
 							<i>
@@ -103,7 +108,7 @@ const About = () => {
 			<CardContent>
 				<br></br>
 				<Typography variant="h6" color="textPrimary" component="h6">
-					Using performance art to facillitate conversation.
+					Using theatre to facillitate conversation.
 				</Typography>
 				<br></br>
 				<Typography variant="body1" color="textPrimary" component="p">

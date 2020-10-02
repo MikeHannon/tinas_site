@@ -57,7 +57,7 @@ const About = () => {
 					<CardHeader
 						avatar={
 							<Avatar aria-label="philosophy" className={classes.avatar}>
-								MP
+								P
 							</Avatar>
 						}
 						title={<h3>My Philosophy</h3>}
@@ -121,7 +121,7 @@ const About = () => {
 					model the world as we would like it to be and point out flaws in a way
 					that encourages us to see them. It’s a tool for self-expression and a
 					voice for those otherwise unheard. It can make us laugh, cry, rage
-					against but most importantly bring us together to share a moment in
+					against, but most importantly bring us together to share a moment in
 					time that is forever ours intertwined.
 				</Typography>
 			</CardContent>

@@ -95,7 +95,7 @@ const About = () => {
 					<CardMedia
 						className={classes.media}
 						image={headshot}
-						title="Tina Polzin, MFA"
+						title="Tina Polzin"
 					></CardMedia>
 				</div>
 			</div>
@@ -103,7 +103,7 @@ const About = () => {
 			<CardContent>
 				<br></br>
 				<Typography variant="h6" color="textPrimary" component="h6">
-					Tina Polzin, MFA
+					Tina Polzin
 				</Typography>
 				<br></br>
 				<Typography variant="body1" color="textPrimary" component="p">
@@ -130,7 +130,8 @@ const About = () => {
 					Inspirations
 				</Typography>
 				<Typography variant="body2" color="textSecondary" component="p">
-					Jacques Derrida’s philosophy Upright Citizen’s Brigade’s training
+					Jacques Derrida’s philosophy <br></br>
+					Upright Citizen’s Brigade’s training
 					<br></br>
 					Augusto Boal’s Theatre of the Oppressed
 					<br></br>Cathy Madden’s coaching in Alexander Technique
