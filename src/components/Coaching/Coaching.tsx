@@ -13,7 +13,6 @@ import {
 	CardMedia,
 } from "@material-ui/core";
 
-import { red } from "@material-ui/core/colors";
 import snowyLake from "../../static/img/snowyLake.jpg";
 
 const useStyles = makeStyles((theme: Theme) =>

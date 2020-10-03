@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 import {
 	Card,
@@ -14,8 +14,6 @@ import {
 } from "@material-ui/core";
 
 import mountainStream from "../../static/img/mountainStream.jpg";
-
-import { red } from "@material-ui/core/colors";
 
 const useStyles = makeStyles((theme: Theme) =>
 	createStyles({
@@ -45,11 +43,7 @@ const useStyles = makeStyles((theme: Theme) =>
 
 const TeamBuilding = (): React.ReactElement => {
 	const classes = useStyles();
-	const [expanded, setExpanded] = useState(false);
 
-	const handleExpandClick = () => {
-		setExpanded(!expanded);
-	};
 	return (
 		<Card style={{ marginTop: "100px" }}>
 			<div style={{ display: "flex" }}>

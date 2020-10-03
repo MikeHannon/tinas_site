@@ -13,7 +13,6 @@ import {
 	CardMedia,
 } from "@material-ui/core";
 
-import { red } from "@material-ui/core/colors";
 import OneOffProduction from "../../static/img/redback.png";
 
 const useStyles = makeStyles((theme: Theme) =>

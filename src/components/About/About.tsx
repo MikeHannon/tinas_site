@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import headshot from "../../static/img/headShot.jpg";
 import {
 	Card,
@@ -12,8 +12,6 @@ import {
 	Divider,
 	CardMedia,
 } from "@material-ui/core";
-
-import { red } from "@material-ui/core/colors";
 
 const useStyles = makeStyles((theme: Theme) =>
 	createStyles({
@@ -43,11 +41,7 @@ const useStyles = makeStyles((theme: Theme) =>
 
 const About = () => {
 	const classes = useStyles();
-	const [expanded, setExpanded] = useState(false);
 
-	const handleExpandClick = () => {
-		setExpanded(!expanded);
-	};
 	return (
 		<Card style={{ marginTop: "100px" }}>
 			<div style={{ display: "flex" }}>
