@@ -95,7 +95,15 @@ const TeamBuilding = (): React.ReactElement => {
 			<CardContent>
 				<Typography variant="h6" color="textPrimary" component="h6">
 					Workshops for groups to come together through laughter and risk
-					taking.
+					taking,
+				</Typography>
+				<Typography
+					variant="h6"
+					color="textSecondary"
+					component="h6"
+					style={{ fontSize: "18px", marginTop: "-6px" }}
+				>
+					employing these core concepts.
 				</Typography>
 				<br></br>
 				<Typography variant="body1" color="textPrimary" component="p">
@@ -140,10 +148,10 @@ const TeamBuilding = (): React.ReactElement => {
 				<Typography variant="body2" color="textSecondary" component="p">
 					Break bias with action; although a bias cannot literally be broken, by
 					breaking out of comfort zones we can begin to set new patterns and to
-					understand the difficulties other may be facing in doing so. Through
+					understand the difficulties others may be facing in doing so. Through
 					improvisation and physical theater exercises, we will challenge
-					ourselves and encourage our team members to be present together in
-					this moment, to go a little further than we thought we could.
+					ourselves and encourage each other to be present together in this
+					moment, to go a little further than we thought we could.
 				</Typography>
 			</CardContent>
 		</Card>

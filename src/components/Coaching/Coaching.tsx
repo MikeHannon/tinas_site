@@ -103,7 +103,7 @@ const About = () => {
 				<br></br>
 
 				<Typography variant="body2" color="textSecondary" component="p">
-					Individual, personal direction focused on attaining and retaining your
+					Individual, personal direction focused on enticing and retaining your
 					audience. How to ground yourself, invite your audience in, and use
 					architecture and objects to your advantage. Highly influenced by
 					Alexander technique and Shakespeare’s use of breath for emphasis,

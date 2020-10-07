@@ -1,0 +1,44 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-tinapolzin-dev-212111-authRole",
+            "UnauthRoleArn": "arn:aws:iam::840705403449:role/amplify-tinapolzin-dev-212111-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::840705403449:role/amplify-tinapolzin-dev-212111-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-tinapolzin-dev-212111-deployment",
+            "UnauthRoleName": "amplify-tinapolzin-dev-212111-unauthRole",
+            "StackName": "amplify-tinapolzin-dev-212111",
+            "StackId": "arn:aws:cloudformation:us-west-2:840705403449:stack/amplify-tinapolzin-dev-212111/ea78a8f0-052f-11eb-ac35-0a5b0a1353b8",
+            "AmplifyAppId": "d3sfqb31eheuyx"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3sfqb31eheuyx",
+                    "type": "manual"
+                }
+            }
+        }
+    },
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-tinapolzin-prod-225722-authRole",
+            "UnauthRoleArn": "arn:aws:iam::840705403449:role/amplify-tinapolzin-prod-225722-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::840705403449:role/amplify-tinapolzin-prod-225722-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-tinapolzin-prod-225722-deployment",
+            "UnauthRoleName": "amplify-tinapolzin-prod-225722-unauthRole",
+            "StackName": "amplify-tinapolzin-prod-225722",
+            "StackId": "arn:aws:cloudformation:us-west-2:840705403449:stack/amplify-tinapolzin-prod-225722/59ea18b0-053d-11eb-9b6f-0afe57d56d7e",
+            "AmplifyAppId": "d3sfqb31eheuyx"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3sfqb31eheuyx",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}

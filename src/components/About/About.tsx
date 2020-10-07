@@ -106,7 +106,7 @@ const About = () => {
 				<Typography variant="body2" color="textSecondary" component="p">
 					Tina Polzin creates multi-disciplinary multi-lingual works of theater
 					that spark conversation. A world traveler who has lived on both
-					coasts, Europe and Israel, she speaks English well usually, French
+					coasts, Europe and Israel, she speaks English well, usually, French
 					fairly well, Spanish not so well and can find a pint and a restroom in
 					several other languages. She has used theater to facilitate conflict
 					resolution, team building, language acquisition, self-expression and
