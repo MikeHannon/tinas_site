@@ -103,7 +103,8 @@ const TeamBuilding = (): React.ReactElement => {
 					component="h6"
 					style={{ fontSize: "18px", marginTop: "-6px" }}
 				>
-					employing these core concepts.
+					These core concepts form the basis for the workshops that I design
+					with and for you.
 				</Typography>
 				<br></br>
 				<Typography variant="body1" color="textPrimary" component="p">
