@@ -105,10 +105,11 @@ const About = () => {
 					Art is a fundamental tool to facilitate communication.
 				</Typography>
 				<br></br>
-				<Typography variant="body1" color="textPrimary" component="p">
-					Faith in our partners allows us to reach otherwise unattainable
-					heights.
-				</Typography>
+				<Typography
+					variant="body1"
+					color="textPrimary"
+					component="p"
+				></Typography>
 				<Typography variant="body2" color="textSecondary" component="p">
 					Theater is uniquely positioned to promote learning; actively and by
 					observation, supporting risk taking in a safe environment. It can

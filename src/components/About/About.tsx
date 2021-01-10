@@ -110,7 +110,8 @@ const About = () => {
 					fairly well, Spanish not so well and can find a pint and a restroom in
 					several other languages. She has used theater to facilitate conflict
 					resolution, team building, language acquisition, self-expression and
-					risk taking with school districts, start-ups, corporations, boards and
+					risk taking with school districts, start-ups, corporations,
+					non-profits, boards, detention centers, adoption centers, a moshav and
 					foster youth. She coaches individuals looking to strengthen their
 					presentation performance. The youngest of six, she is the first in her
 					family to complete a higher degree. BA English, Comparative
@@ -130,7 +131,7 @@ const About = () => {
 					Augusto Boal’s Theatre of the Oppressed
 					<br></br>Cathy Madden’s coaching in Alexander Technique
 					<br></br>
-					Brene Breen’s Daring Greatly
+					Brene Brown’s Daring Greatly
 					<br></br> Austin Kleon’s Steal Like An Artist
 					<br></br>
 					Lucille Ball, especially{" "}

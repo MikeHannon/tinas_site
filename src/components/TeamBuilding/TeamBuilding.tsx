@@ -94,8 +94,8 @@ const TeamBuilding = (): React.ReactElement => {
 			<Divider></Divider>
 			<CardContent>
 				<Typography variant="h6" color="textPrimary" component="h6">
-					Workshops for groups to come together through laughter and risk
-					taking,
+					Workshops for groups to come together through risk taking and
+					laughter.
 				</Typography>
 				<Typography
 					variant="h6"
@@ -103,8 +103,11 @@ const TeamBuilding = (): React.ReactElement => {
 					component="h6"
 					style={{ fontSize: "18px", marginTop: "-6px" }}
 				>
-					These core concepts form the basis for the workshops that I design
-					with and for you.
+					Whether you want to replenish your creative side, discuss diversity
+					and equity in the work place, incorporate more active learning into
+					your curriculum, use playwritting to process trama or shape an
+					enjoyable experience for your team, these core concepts form the basis
+					for the workshops that I design with and for you.
 				</Typography>
 				<br></br>
 				<Typography variant="body1" color="textPrimary" component="p">
