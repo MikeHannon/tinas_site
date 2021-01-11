@@ -7,7 +7,7 @@ import About from "./components/About";
 import Events from "./components/Events";
 import Coaching from "./components/Coaching";
 import { MuiThemeProvider, createMuiTheme } from "@material-ui/core/styles";
-
+import Contact from "./components/Contact";
 const Title = "Tina Polzin";
 const SubTitle = "Creating Conversation";
 
@@ -76,6 +76,7 @@ function App() {
 								<Tab style={{ minWidth: "100px" }} label="Directing" />
 								<Tab style={{ minWidth: "100px" }} label="Coaching" />
 								<Tab style={{ minWidth: "100px" }} label="About" />
+								<Tab style={{ minWidth: "100px" }} label="Contact" />
 							</Tabs>
 						</div>
 					) : (
@@ -99,7 +100,10 @@ function App() {
 					</TabPanel>
 					<TabPanel value={value} index={4}>
 						<About />
-					</TabPanel>{" "}
+					</TabPanel>
+					<TabPanel value={value} index={5}>
+						<Contact />
+					</TabPanel>
 				</>
 			) : (
 				<div style={{ margin: "0 12px" }}>
@@ -112,6 +116,8 @@ function App() {
 					<Coaching />
 
 					<About />
+
+					<Contact />
 				</div>
 			)}
 		</div>
