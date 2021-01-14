@@ -36,24 +36,3 @@
 		transform: rotate(360deg);
 	}
 }
-
-// Contact.css
-input {
-	width: 600px;
-}
-textarea {
-	height: 10em;
-	width: 600px;
-}
-
-div[role="alert"] {
-	color: red;
-	margin-top: 1em;
-}
-
-// Contact.css
-.message-chars-left {
-	width: 600px;
-	margin: auto;
-	text-align: left;
-}

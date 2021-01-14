@@ -73,7 +73,6 @@ const TeamBuilding = (): React.ReactElement => {
 							component="h2"
 							style={{
 								fontSize: "10px",
-
 								marginTop: "10px",
 								marginBottom: "10px",
 							}}
@@ -101,7 +100,7 @@ const TeamBuilding = (): React.ReactElement => {
 					variant="h6"
 					color="textSecondary"
 					component="h6"
-					style={{ fontSize: "18px", marginTop: "-6px" }}
+					style={{ fontSize: "18px", marginTop: "4px", lineHeight: "22px" }}
 				>
 					Whether you want to replenish your creative side, discuss diversity
 					and equity in the work place, incorporate more active learning into

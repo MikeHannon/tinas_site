@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import { useForm } from "react-hook-form";
 import { init, sendForm } from "emailjs-com";
-import "../App.css";
+// import "../App.css";
+import "../contact.css";
 init("user_ONO9V2RdPCRwcuPJx1Djn");
 
 const Contact = () => {
