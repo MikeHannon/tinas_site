@@ -167,7 +167,8 @@ const About = () => {
 					inspired by I Love Lucy - comedy from the head and the heart.
 					(Laughter is also profitable - our rendition is LA's Morgan Wixson
 					Theater’s highest grossing production to date.) A short teaser can be
-					seen <a href="https://www.youtube.com/watch?v=qi9ZB4uQSjU">here</a>.
+					seen{" "}
+					<a href="https://www.youtube.com/watch?v=Mp3Qo0IHTdQ&t=43s">here</a>.
 				</Typography>
 			</CardContent>
 		</Card>
